@@ -1,2 +1,2 @@
-# AngryBirds_Part2
-Enjoy making and playing AngryBirds!!!!
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
